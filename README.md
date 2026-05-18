@@ -96,5 +96,3 @@ Criptografia de senha com bcrypt
 Autenticação com JWT
 Testes unitários
 ---
-📄 Licença
-MIT
